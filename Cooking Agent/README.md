@@ -2,6 +2,9 @@
 
 Updated blog link: https://dev.to/shemanto_sharkar/building-a-cooking-expert-ai-agent-with-phidata-and-django-rest-framework-drf-3nch
 
+![Screen-Recording](https://github.com/user-attachments/assets/ebcddd15-1e24-4848-86ea-5808c3606f68)
+
+
 Artificial Intelligence (AI) is reshaping industries, and the concept of AI agents is leading this transformation. Imagine a world where billions of AI agents assist us in every field of work – from healthcare and education to cooking and transportation. Even Mark Zuckerberg has spoken about the rise of AI agents and their potential to revolutionize how we interact with technology. In this blog, I’ll walk you through the process of building a custom AI agent api using **Phidata** and **Django Rest Framework (DRF)**. This agent will act as a **cooking and food expert**, answering your culinary questions and providing helpful tips and recipes.
 
 ---
